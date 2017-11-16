@@ -2,5 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="svn" />
+    <mapping directory="D:\projec\test7\AndroidApp\IntelligentTransportation" vcs="Git" />
+    <mapping directory="D:\projec\test7\AndroidApp\SmartTrafficApp" vcs="Git" />
   </component>
 </project>
